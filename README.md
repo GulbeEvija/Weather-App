@@ -9,7 +9,7 @@
 <h3 align="center">Weather App</h3>
 
   <p align="center">
-    App built with React using props and class components.
+    App built with JavaScript using Weather API
     <br />
     <br />
     <a href="https://ginger-mousy-week.glitch.me/">View project live on Glitch</a>
@@ -42,7 +42,10 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-Here's a blank template to get started: 
+* j
+* k
+* k
+* j
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -50,7 +53,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* [![React][React.js]][React-url]
+* JavaScript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,23 +61,21 @@ Here's a blank template to get started:
 
 ## Getting Started
 
-`npm start`
+right click on `index.html`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+then `open with live server`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+project should be open in Chrome browser
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Useful resources to learn JavaScript:
+  * [Resource #1](https://www.w3schools.com/js/)
+  * [Resource #2](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -89,7 +90,7 @@ If you have any suggestions that would make this project better, please send me 
 
 ## Contact
 
-Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/) - evija.gulbe@outlook.com
+Evija Gulbe - [LinkedIn](https://www.linkedin.com/in/evija-gulbe-534673240/)
 
 Project Link: [https://github.com/GulbeEvija/Weather-App.git](https://github.com/GulbeEvija/Weather-App.git)
 
