@@ -42,10 +42,10 @@
 
 ![Product Name Screen Shot][product-screenshot]
 
-* j
-* k
-* k
-* j
+* This project allows users to access a weather forecast for any city
+* Technologies used in this project:
+  * API from [openweathermap](https://openweathermap.org/current)
+  * `async`, `fetch()` and `json` to access the data in the code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
